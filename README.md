@@ -1,16 +1,14 @@
-### Hi there 👋
+# About Me
 
-<!--
-**baptistegresse/baptistegresse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Focus
+Studying Web3 technologies with a passion for the decentralized future of the internet.
 
-Here are some ideas to get you started:
+## 🚀 Endeavors
+- Actively exploring Node Guardians Beta, deepening my understanding of Solidity.
+- Simultaneously preparing for EthGlobal Brussels in June 2024 alongside studies at Ecole 42 Lyon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Aspirations
+Actively seeking Web3 internship opportunities in France or beyond.
+
+## 📬 Contact
+Open to discussions and opportunities! 📫
